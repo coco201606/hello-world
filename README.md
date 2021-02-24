@@ -1,3 +1,4 @@
 # hello-world
 Hi Evryone
-I want to learn the git.
+gitをできたいです。
+なかなか上手くいきません。
